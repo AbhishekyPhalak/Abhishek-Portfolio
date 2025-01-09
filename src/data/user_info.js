@@ -40,6 +40,30 @@ const info = {
 			github: "https://github.com/abhisheky1510",
             link: "https://github.com/abhisheky1510"
 		},
+        {
+			title: "Multimodal Personality Analysis",
+            img: "multimodal.jpg",
+			description: "Multimodal Personality Analysis is a deep learning model that assesses personality traits using audio and video data, leveraging YAMNet and VGGFace for feature extraction and a multimodal architecture with CNNs and LSTMs to achieve 83.52% accuracy.",
+			technologies: "Python, Tensorflow, keras, YAMNet, VGGFace, Matplotlib",
+			github: "https://github.com/abhisheky1510",
+            link: "https://github.com/abhisheky1510"
+		},
+        {
+			title: "Database Managment System",
+            img: "dbms.jpg",
+			description: "Designed a scalable, JSON-based non-relational data model with memory-efficient chunk processing, developed a custom Query Language for intuitive interactions, and optimized data operations using k-way merge sort and Nested Loop Join, improving execution speed by 30% and reducing memory footprint by 15%.",
+			technologies: "Python, Json, CLI",
+			github: "https://github.com/abhisheky1510",
+            link: "https://github.com/abhisheky1510"
+		},
+        {
+			title: "Revamping the Pandemic",
+            img: "revamping.jpg",
+			description: "Revamping the Pandemic is a responsive website designed to support society during COVID-19, featuring categorized resources, blogs, e-learning tools, hackathons, and a teacher registration portal with an admin panel to facilitate future employment opportunities.",
+			technologies: "HTML, CSS, JavaScript, PHP, MySQL, Bootstrap",
+			github: "https://github.com/abhisheky1510",
+            link: "https://github.com/abhisheky1510"
+		},
     ],
 
     education: [
