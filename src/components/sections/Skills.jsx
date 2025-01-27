@@ -2,10 +2,10 @@ import { BiLogoNetlify, BiLogoPostgresql, BiLogoTypescript } from "react-icons/b
 import { CgVercel } from "react-icons/cg";
 import { DiGithubAlt, DiMongodb } from "react-icons/di";
 import { FaDocker } from "react-icons/fa";
-import { FaAws, FaCss3Alt, SiOpencv, FaGitAlt, FaGitlab, FaHtml5, FaNodeJs, FaPython, FaReact, FaVuejs, FaJava } from "react-icons/fa6";
+import { FaAws, FaCss3Alt, FaGitAlt, FaGitlab, FaHtml5, FaNodeJs, FaPython, FaReact, FaVuejs, FaJava } from "react-icons/fa6";
 import { IoLogoJavascript } from "react-icons/io";
 import { IoLogoFirebase } from "react-icons/io5";
-import { SiExpress, SiFlask, SiAngular, SiPandas, SiNuxtdotjs, SiApachespark, SiApachehadoop, SiTableau, SiTailwindcss, SiTensorflow } from "react-icons/si";
+import { SiExpress, SiOpencv, SiFlask, SiAngular, SiPandas, SiNuxtdotjs, SiApachespark, SiApachehadoop, SiTableau, SiTailwindcss, SiTensorflow } from "react-icons/si";
 import { TbBrandNextjs } from "react-icons/tb";
 
 function Skills() {
