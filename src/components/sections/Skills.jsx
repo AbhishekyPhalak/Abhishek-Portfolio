@@ -2,10 +2,10 @@ import { BiLogoNetlify, BiLogoPostgresql, BiLogoTypescript } from "react-icons/b
 import { CgVercel } from "react-icons/cg";
 import { DiGithubAlt, DiMongodb } from "react-icons/di";
 import { FaDocker } from "react-icons/fa";
-import { FaAws, FaCss3Alt, FaDigitalOcean, FaGitAlt, FaGitlab, FaHtml5, FaNodeJs, FaPython, FaReact, FaVuejs } from "react-icons/fa6";
+import { FaAws, FaCss3Alt, SiOpencv, FaGitAlt, FaGitlab, FaHtml5, FaNodeJs, FaPython, FaReact, FaVuejs, FaJava } from "react-icons/fa6";
 import { IoLogoJavascript } from "react-icons/io";
 import { IoLogoFirebase } from "react-icons/io5";
-import { SiAntdesign, SiExpress, SiFlask, SiJest, SiNuxtdotjs, SiPassport, SiPostman, SiPythonanywhere, SiSequelize, SiTailwindcss, SiTensorflow } from "react-icons/si";
+import { SiExpress, SiFlask, SiAngular, SiPandas, SiNuxtdotjs, SiApachespark, SiApachehadoop, SiTableau, SiTailwindcss, SiTensorflow } from "react-icons/si";
 import { TbBrandNextjs } from "react-icons/tb";
 
 function Skills() {
@@ -53,16 +53,16 @@ function Skills() {
           <FaVuejs className="text-2xl" /> VueJS
         </span>
 				<span className="inline-flex items-center justify-between gap-x-1.5 py-4 px-3 hover:-translate-y-1.5 transition-translate duration-500 rounded-xl font-medium bg-red-100 text-red-800 dark:bg-red-800/30 dark:text-red-500">
-          <SiNuxtdotjs className="text-2xl" /> NuxtJS
+          <SiNuxtdotjs className="text-2xl" /> NextJS
         </span>
 				<span className="inline-flex items-center justify-between gap-x-1.5 py-4 px-3 hover:-translate-y-1.5 transition-translate duration-500 rounded-xl font-medium bg-red-100 text-red-800 dark:bg-red-800/30 dark:text-red-500">
-          <SiJest className="text-2xl" /> Jest
+          <FaJava className="text-2xl" /> Java
         </span>
 				<span className="inline-flex items-center justify-between gap-x-1.5 py-4 px-3 hover:-translate-y-1.5 transition-translate duration-500 rounded-xl font-medium bg-red-100 text-red-800 dark:bg-red-800/30 dark:text-red-500">
           <SiTensorflow className="text-2xl" /> Tensorflow
         </span>
 				<span className="inline-flex items-center justify-between gap-x-1.5 py-4 px-3 hover:-translate-y-1.5 transition-translate duration-500 rounded-xl font-medium bg-red-100 text-red-800 dark:bg-red-800/30 dark:text-red-500">
-          <SiAntdesign className="text-2xl" /> Ant Design Vue
+          <SiApachehadoop className="text-2xl" /> Hadoop
         </span>
 				<span className="inline-flex items-center justify-between gap-x-1.5 py-4 px-3 hover:-translate-y-1.5 transition-translate duration-500 rounded-xl font-medium bg-red-100 text-red-800 dark:bg-red-800/30 dark:text-red-500">
           <FaGitAlt className="text-2xl" /> Git
@@ -83,16 +83,16 @@ function Skills() {
           <IoLogoFirebase className="text-2xl" /> Firebase
         </span>
 				<span className="inline-flex items-center justify-between gap-x-1.5 py-4 px-3 hover:-translate-y-1.5 transition-translate duration-500 rounded-xl font-medium bg-red-100 text-red-800 dark:bg-red-800/30 dark:text-red-500">
-          <SiPostman className="text-2xl" /> Postman
+          <SiAngular className="text-2xl" /> Angular
         </span>
 				<span className="inline-flex items-center justify-between gap-x-1.5 py-4 px-3 hover:-translate-y-1.5 transition-translate duration-500 rounded-xl font-medium bg-red-100 text-red-800 dark:bg-red-800/30 dark:text-red-500">
-          <FaDigitalOcean className="text-2xl" /> Digital Ocean
+          <SiApachespark className="text-2xl" /> Spark
         </span>
 				<span className="inline-flex items-center justify-between gap-x-1.5 py-4 px-3 hover:-translate-y-1.5 transition-translate duration-500 rounded-xl font-medium bg-red-100 text-red-800 dark:bg-red-800/30 dark:text-red-500">
-          <FaAws className="text-2xl" /> AWS EC2
+          <FaAws className="text-2xl" /> AWS
         </span>
 				<span className="inline-flex items-center justify-between gap-x-1.5 py-4 px-3 hover:-translate-y-1.5 transition-translate duration-500 rounded-xl font-medium bg-red-100 text-red-800 dark:bg-red-800/30 dark:text-red-500">
-          <SiPythonanywhere className="text-2xl" /> PythonAnywhere
+          <SiPandas className="text-2xl" /> Pandas
         </span>
 				<span className="inline-flex items-center justify-between gap-x-1.5 py-4 px-3 hover:-translate-y-1.5 transition-translate duration-500 rounded-xl font-medium bg-red-100 text-red-800 dark:bg-red-800/30 dark:text-red-500">
           <DiMongodb className="text-2xl" /> MongoDB
@@ -101,10 +101,10 @@ function Skills() {
           <BiLogoPostgresql className="text-2xl" /> PostgreSQL
         </span>
 				<span className="inline-flex items-center justify-between gap-x-1.5 py-4 px-3 hover:-translate-y-1.5 transition-translate duration-500 rounded-xl font-medium bg-red-100 text-red-800 dark:bg-red-800/30 dark:text-red-500">
-          <SiSequelize className="text-2xl" /> Sequelize
+          <SiOpencv className="text-2xl" /> OpenCV
         </span>
 				<span className="inline-flex items-center justify-between gap-x-1.5 py-4 px-3 hover:-translate-y-1.5 transition-translate duration-500 rounded-xl font-medium bg-red-100 text-red-800 dark:bg-red-800/30 dark:text-red-500">
-          <SiPassport className="text-2xl" /> PassportJS
+          <SiTableau className="text-2xl" /> Tableau
         </span>
 				<span className="inline-flex items-center justify-between gap-x-1.5 py-4 px-3 hover:-translate-y-1.5 transition-translate duration-500 rounded-xl font-medium bg-red-100 text-red-800 dark:bg-red-800/30 dark:text-red-500">
           <FaDocker className="text-2xl" /> Docker

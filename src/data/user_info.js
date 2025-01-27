@@ -8,7 +8,7 @@ const info = {
     },
 
     socials: {
-		github: "https://github.com/abhisheky1510",
+		github: "https://github.com/AbhishekyPhalak",
 		linkedin: "https://linkedin.com/in/abhishek-phalak",
 		instagram: "https://www.instagram.com/abhisheky_1510/",
     },
@@ -19,8 +19,7 @@ const info = {
             img: "agq.jpg",
 			description: "Developed an automated question generation system using GloVe embeddings and the SQuAD dataset, reducing question creation time by 25%, and designed algorithms to generate multiple-choice, Wh-questions, and dynamic crosswords for comprehensive assessment.",
             technologies: "Tensorflow, NLTK, Flask, SpaCy, NLP",
-			github: "https://github.com/abhisheky1510",
-            link: "https://github.com/abhisheky1510"
+			github: "https://github.com/AbhishekyPhalak/Automatic-Question-Generation"
 		},
 
         {
@@ -28,41 +27,38 @@ const info = {
             img: "android.jpg",
 			description: "Developed a multi-tier event search application using Angular, Express.js, and the Ticketmaster API, featuring assisted search, auto-detect geolocation, dynamic sorting, in-app favorites, and a Java-based Android app with Express.js REST API integration for exploring 1M+ events.",
 			technologies: "AngularJs, TypeScript, Flask, NodeJs, ExpressJs, GCP, Java, Androids",
-			github: "https://github.com/abhisheky1510",
-            link: "https://github.com/abhisheky1510"
+			github: "https://github.com/AbhishekyPhalak/Event-Search-Android-App"
 		},
 
         {
 			title: "Healthcare Dashboard",
             img: "healthcare.png",
-			description: "Draw & Classify is a web application designed to test my machine learning model, which classifies drawn letters, digits, or shapes.",
+			description: "A dynamic, single-page web application that fetches patient data from an API and visualizes health metrics with graphs. This project is built using React, Tailwind CSS, Node.js, Bootstrap, and Chart.js to display detailed health metrics such as blood pressure over time.",
 			technologies: "React, Tailwind, NodeJs, ChartJs",
-			github: "https://github.com/abhisheky1510",
-            link: "https://github.com/abhisheky1510"
+			github: "https://github.com/AbhishekyPhalak/Healthcare_dashboard",
+            link: "https://abhishekyphalak.github.io/Healthcare_dashboard/"
 		},
         {
 			title: "Multimodal Personality Analysis",
             img: "multimodal.jpg",
 			description: "Multimodal Personality Analysis is a deep learning model that assesses personality traits using audio and video data, leveraging YAMNet and VGGFace for feature extraction and a multimodal architecture with CNNs and LSTMs to achieve 83.52% accuracy.",
 			technologies: "Python, Tensorflow, keras, YAMNet, VGGFace, Matplotlib",
-			github: "https://github.com/abhisheky1510",
-            link: "https://github.com/abhisheky1510"
+			github: "https://github.com/AbhishekyPhalak/Multimodal-Personality-Analysis"
 		},
         {
 			title: "Database Managment System",
             img: "dbms.jpg",
 			description: "Designed a scalable, JSON-based non-relational data model with memory-efficient chunk processing, developed a custom Query Language for intuitive interactions, and optimized data operations using k-way merge sort and Nested Loop Join, improving execution speed by 30% and reducing memory footprint by 15%.",
 			technologies: "Python, Json, CLI",
-			github: "https://github.com/abhisheky1510",
-            link: "https://github.com/abhisheky1510"
+			github: "https://github.com/AbhishekyPhalak/Database-Management-System"
 		},
         {
 			title: "Revamping the Pandemic",
             img: "revamping.jpg",
 			description: "Revamping the Pandemic is a responsive website designed to support society during COVID-19, featuring categorized resources, blogs, e-learning tools, hackathons, and a teacher registration portal with an admin panel to facilitate future employment opportunities.",
 			technologies: "HTML, CSS, JavaScript, PHP, MySQL, Bootstrap",
-			github: "https://github.com/abhisheky1510",
-            link: "https://github.com/abhisheky1510"
+			github: "https://github.com/AbhishekyPhalak/Revamping-The-Pandemic",
+            link: "https://abhishekyphalak.github.io/Revamping-The-Pandemic/"
 		},
     ],
 
@@ -146,6 +142,12 @@ const info = {
             img: "springer.png",
             publication: true,
             link: "https://link.springer.com/chapter/10.1007/978-981-99-0550-8_19",
+        },
+        {
+            title: "Career Essentials in Generative AI",
+            description: "Provided by Linkedin & Authorized by Microsoft",
+            img: "microsoft.png",
+            link: "https://www.linkedin.com/learning/certificates/a02bb9cef4449b6f4e403d991f1ef1a2334a718912f4d19ca563937c0e0070f5?trk=share_certificate",
         },
         {
             title: "Best Data Science Teamwork",
