@@ -4,7 +4,7 @@ const info = {
         description: "I am a software engineer specializing in full-stack web development and artificial intelligence. With experience in building scalable, secure, and high-performance applications, I enjoy solving complex challenges and leveraging AI/ML to enhance user experiences. Passionate about writing clean, efficient code, I follow best practices and industry standards to develop innovative and impactful solutions.",
         role: "AI-Driven Software Engineer",
         photo: "../abhis.jpg",
-        email: "aphalak@usc.edu",
+        email: "abhisheky1510@gmail.com",
     },
 
     socials: {
