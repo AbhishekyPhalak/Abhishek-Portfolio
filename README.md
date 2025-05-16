@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! This website showcases my projects, skills, and experience.
 
 ## 🔗 Live Demo
-[Check out my portfolio here](https://portfolio-4od59ja6p-abhishek-phalaks-projects-3aa1ee08.vercel.app/)
+[Check out my portfolio here](https://portfolio-k7ro0jq5p-abhishek-phalaks-projects-3aa1ee08.vercel.app/)
 
 ## 🛠 Tech Stack
 - **React** ⚛️  
